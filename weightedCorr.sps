@@ -35,7 +35,7 @@
 * 2013-10-15 Created
 
 set printback = off.
-begin program python.
+BEGIN PROGRAM PYTHON3.
 import spss, spssaux
 from spss import CellText
 
