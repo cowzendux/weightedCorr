@@ -4,6 +4,8 @@ SPSS Python Extension function that generates a correlation matrix that makes us
 
 SPSS will not normally allow you to use a regression weight outside of a regression analysis. There is a command to weight your data, but it does this by artificially multiplying the number of cases that you have, which is not typically what you want.
 
+This and other SPSS Python Extension functions can be found at http://www.stat-help.com/python.html
+
 ## Usage
 **weightedCorr(weight, varlist1, varlist2)**
 * "weight" is a string identifying the weight variable. This argument is required.
